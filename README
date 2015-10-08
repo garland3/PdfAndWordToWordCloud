@@ -1,0 +1,16 @@
+# Installation
+- install python
+- install these packages(pip install .... )
+-- pdfminer
+-- WordCloud
+-- numpy
+-- matplotlib
+-- docx
+
+# Run, by putting all the docx and pdf files in this folder
+# run the master1.py
+# run the master2.py
+# run mastserTxtFilesToWordCloud.py
+
+# Purpose
+- convert pdf and word files to WordClouds in batchs
